@@ -5,11 +5,14 @@ networks:
     external: true
 
 services:
-  maddex:
-    build:
-      context: .
-      dockerfile: Dockerfile
+  website:
+    init: true
     container_name: maddex
     restart: unless-stopped
     networks:
       - deltr
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/usr/src/app
