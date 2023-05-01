@@ -1,0 +1,15 @@
+version: "3.8"
+
+networks:
+  deltr:
+    external: true
+
+services:
+  maddex:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: maddex
+    restart: unless-stopped
+    networks:
+      - deltr
