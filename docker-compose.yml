@@ -1,16 +1,16 @@
 version: "3.8"
 
 networks:
-  deltr:
+  anglo-internal:
     external: true
 
 services:
   website:
     init: true
-    container_name: maddex
+    container_name: personal-maddex
     restart: unless-stopped
     networks:
-      - deltr
+      - anglo-internal
     build:
       context: ./
       dockerfile: Dockerfile
