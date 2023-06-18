@@ -1,113 +1,48 @@
-<?php
-/*
-
-charlie is a software engineer who enjoys infrastructure and systems administration, cryptography, computer security, game anti-cheat, and networking. He enjoys connecting people with technology solutions that are easy to use, affordable, and sustainable over time. He is familiar with, and a huge supporter of, the DevOps culture and how to make it work with a small team in a fast paced environment. He currently works at Method-IT, a Managed Service Provider who provides managed cloud and communication systems. He also works on Anglo, a artificial general intelligence research group in his free time.
-
-*/
-?>
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="tex=t/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-=width">
-    <title>charlie maddex</title>
-    <meta name="description" content="charlie is a software engineer based in London.">
-    <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/39627038?v=4">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter">
-    <style>
-    :root {
-        color-scheme: dark;
-        --background: #141414;
-        --foreground: #bebebe;
-        -=-muted: #919192;
-        --border: #303031;
-        --sans: -apple-system, BlinkMacSystemFon=t, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Ne=ue, sans-serif;
-    }
-
-    *,
-    ::after,
-    ::before {
-        box-sizing: border-box;
-    }
-
-    * {
-        margin: 0px;
-    }
-
-    body,
-    html {
-        color: var(--foreground);
-        background: var(--background);
-        font-=family: var(--sans);
-        height: 100%;
-    }
-
-    body {
-        font-size: 16px;
-        line-height: 1.5;
-        -webkit-font-smoothing: antialiased;
-        font-family: "Inter", sans-serif;
-        font-weight: 375;
-    }
-
-    canvas,
-    img,
-    picture,
-    svg,
-    video {
-        display: block;
-        max-width: 100%;
-    }
-
-    button,
-    input,
-    select,
-    textarea {
-        font: inherit;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    p {
-        overflow-wrap: break-word;
-        text-rendering: optimizelegibility;
-    }
-
-    a {
-        color: inherit;
-        text-decoration-color: var(--border);
-    }
-
-    main {
-        font-size: 1.15rem;
-        font-weight: 375;
-        letter-spacing: -0.004rem;
-        lin=e-height: 1.625;
-        padding: 1rem;
-    }
-
-    .muted {
-        color: var(--muted);
-    }
-    </style>
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie-edge" />
+    <link rel="icon" href="/images/av32x32.png" />
+    <link rel="apple-touch-icon" href="/images/av256x256.png" />
+    <meta name="robots" content="index,follow" />
+    <title>Charlie Maddex</title>
+    <meta name="description" content="Charlie Maddex's site" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta property="og:title" content="Charlie Maddex" />
+    <meta property="og:description" content="Charlie Maddex's site." />
+    <meta property="og:url" content="https://maddex.co" />
+    <meta name="twitter:image" content="https://maddex.co/images/banner.jpg" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_IE" />
+    <meta property="og:site_name" content="Charlie Maddex" />
+    <meta property="og:image:alt" content="og image" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@cunjur" />
+    <meta name="twitter:creator" content="@cunjur" />
+    <meta name="twitter:title" content="no e-mail" />
+    <meta name="twitter:description" content="charlie's journal" />
 </head>
 
 <body>
     <div>
         <main>
-            <p>Charlie is a software engineer based in London.</p>
-            <p class="muted">
-                <a href="https://github.com/name">GitHub</a>
-                <a href="https://twitter.com/cunjur">Twitter</a>
-                <a href="https://www.linkedin.com/in/charliemaddex/">LinkedIn</a>
-                <a href="mailto:charlie@anglo.is">Email</a>
-            </p>
+            Charlie Maddex. Software engineer with interests in cryptography, computer security, and game anticheat. I'm
+            mostly placing my energy in <a rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
+                href="https://anglo.is/">Anglo</a>. Let's connect: <a rel="noopener noreferrer" target="_blank"
+                style="margin-left:4px;color:blue" href="https://twitter.com/cunjur">Twitter</a>, <a
+                rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
+                href="https://github.com/name">Github</a>, <a rel="noopener noreferrer" target="_blank"
+                style="margin-left:4px;color:blue" href="https://www.instagram.com/sech">IG</a>, or <a
+                rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
+                href="mailto:charlie@anglo.is">e-mail</a>.<a style="margin-left:4px;color:blue" target="_blank"
+                href="/journal">Journal.</a>
+            <br>
+            If you are contacting me regarding a sensitive issue, please encrypt your communications using my <a
+                style="margin-left:4px;color:blue" target="_blank" href="/pgp">pgp
+                key.</a>.
         </main>
     </div>
 </body>
