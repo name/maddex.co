@@ -40,6 +40,9 @@
                 href="mailto:charlie@anglo.is">e-mail</a>.<a style="margin-left:4px;color:blue" target="_blank"
                 href="/journal">Journal.</a>
             <br>
+            I am going to start streaming random projects on <a rel="noopener noreferrer" target="_blank"
+                style="margin-left:4px;color:blue" href="https://kick.com/cunjur">Kick</a>, I'm not sure on when that
+            will start yet.
             If you are contacting me regarding a sensitive issue, please encrypt your communications using my <a
                 style="margin-left:4px;color:blue" target="_blank" href="/pgp">pgp
                 key.</a>.
