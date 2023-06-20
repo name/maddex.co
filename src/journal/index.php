@@ -59,6 +59,55 @@
                     <li
                         style="color:red;margin-bottom:1rem;font-family:monospace;letter-spacing:0.03em;font-weight:bold">
                         #
+                        2023.06.20
+                    </li>
+                </ul>
+                <section>
+                    <p>As organizations expand, the escalating costs of communication and coordination become
+                        evident.<br>
+                        Effective information sharing and action coordination are crucial but come at a price of
+                        time<br>
+                        and resources. Group meetings can reduce individual communications, provided there is
+                        sufficient<br>
+                        overlap among groups. Balancing efficient groups with minimizing participants in
+                        communication<br>
+                        loops is vital. Additionally, hidden costs persist in informal communications, necessitating<br>
+                        ongoing analysis. Managing communication and coordination is essential for organizations as
+                        they<br>
+                        grow, requiring careful attention and continuous efforts to optimize efficiency.
+                    </p>
+                </section>
+            </div>
+
+            <div style="margin-bottom:4rem">
+                <ul>
+                    <li
+                        style="color:red;margin-bottom:1rem;font-family:monospace;letter-spacing:0.03em;font-weight:bold">
+                        #
+                        2023.06.19
+                    </li>
+                </ul>
+                <section>
+                    <p>One reason for unnecessary meetings and status updates is the need for organizational leaders
+                        to<br>
+                        stay informed about ongoing tasks. While this awareness is important, the current methods,
+                        such<br>
+                        as frequent meetings, Slack messages, and hallway conversations, actually decrease
+                        productivity.<br>
+                        A better approach as the organization grows is for teams to regularly share status updates
+                        as<br>
+                        part of their normal workflow. Leaders can then read these updates at their convenience and<br>
+                        engage in synchronous discussions only when necessary. This way, synchronous meetings can be<br>
+                        reserved for immediate collaboration on complex issues, and collaboration itself can be focused
+                        within those meetings.</p>
+                </section>
+            </div>
+
+            <div style="margin-bottom:4rem">
+                <ul>
+                    <li
+                        style="color:red;margin-bottom:1rem;font-family:monospace;letter-spacing:0.03em;font-weight:bold">
+                        #
                         2023.06.18
                     </li>
                 </ul>

@@ -29,20 +29,21 @@
 <body>
     <div>
         <main>
-            Charlie Maddex. Software engineer with interests in cryptography, computer security, and game anticheat. I'm
+            Charlie Maddex. 21, Senior Technical Analyst, Full-Stack Dev & Network Engineer, and Elixir Advocate. I'm
             mostly placing my energy in <a rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
-                href="https://anglo.is/">Anglo</a>. Let's connect: <a rel="noopener noreferrer" target="_blank"
-                style="margin-left:4px;color:blue" href="https://twitter.com/cunjur">Twitter</a>, <a
+                href="https://anglo.is/">Anglo</a>, but I'm starting to work on small open-source projects for my
+            portfolio. Let's connect: <a rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
+                href="https://twitter.com/cunjur">Twitter</a>, <a rel="noopener noreferrer" target="_blank"
+                style="margin-left:4px;color:blue" href="https://github.com/name">Github</a>, <a
                 rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
-                href="https://github.com/name">Github</a>, <a rel="noopener noreferrer" target="_blank"
-                style="margin-left:4px;color:blue" href="https://www.instagram.com/sech">IG</a>, or <a
-                rel="noopener noreferrer" target="_blank" style="margin-left:4px;color:blue"
-                href="mailto:charlie@anglo.is">e-mail</a>.<a style="margin-left:4px;color:blue" target="_blank"
-                href="/journal">Journal.</a>
+                href="https://www.instagram.com/sech">IG</a>, or <a rel="noopener noreferrer" target="_blank"
+                style="margin-left:4px;color:blue" href="mailto:charlie@anglo.is">e-mail</a>.<a
+                style="margin-left:4px;color:blue" target="_blank" href="/journal">Journal.</a>
             <br>
             I am going to start streaming random projects on <a rel="noopener noreferrer" target="_blank"
                 style="margin-left:4px;color:blue" href="https://kick.com/cunjur">Kick</a>, I'm not sure on when that
             will start yet.
+            <br>
             If you are contacting me regarding a sensitive issue, please encrypt your communications using my <a
                 style="margin-left:4px;color:blue" target="_blank" href="/pgp">pgp
                 key.</a>.
