@@ -1,18 +1,18 @@
 version: "3.8"
 
 networks:
-	anglo-internal:
-		external: true
+  anglo-internal:
+    external: true
 
 services:
-	website:
-		init: true
-		container_name: personal-maddex
-		restart: unless-stopped
-		networks:
-			- anglo-internal
-		build:
-			context: ./
-			dockerfile: Dockerfile
-		volumes:
-			- ./:/usr/src/app
+    website:
+        init: true
+        container_name: personal-maddex
+        restart: unless-stopped
+        networks:
+            - anglo-internal
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        volumes:
+            - ./:/usr/src/app
