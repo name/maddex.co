@@ -47,7 +47,7 @@
 		<br>
 		I am streaming random projects on <a rel="noopener noreferrer" target="_blank"
 											 style="margin-left:2px;color:blue"
-											 href="https://kick.com/cunjur">Kick</a>, I'm not sure on
+											 href="https://kick.com/cunjur">Kick</a>!
 		<br>
 		If you are contacting me regarding a sensitive issue, please encrypt your communications using my <a
 			style="margin-left:2px;color:blue" target="_blank" href="/pgp">pgp
