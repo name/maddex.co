@@ -53,11 +53,25 @@
 <body>
     <div>
         <main>
+            <p style="margin-bottom:1em;font-weight:800">charlie maddex</p>
+            <ul>
+                <li style="color:red;margin-bottom:1rem;font-family:monospace;letter-spacing:0.03em;font-weight:bold">
+                    Twitter: <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://twitter.com/cunjur">@cunjur</a>
+                    Github: <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://github.com/name">@name</a>
+                    E-mail: <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="mailto:charlie@anglo.is">charlie@anglo.is</a>
+                </li>
+            </ul>
+
+
 
             <p style="margin-bottom:1em;font-weight:800">notes</p>
             <?php
 				// Get the contents of a website
-				$homepage = file_get_contents('https://maddex.co/notes');
+				$homepage = file_get_contents('https://raw.githubusercontent.com/name/maddex.co/main/notes/notes.html');
+				echo $homepage;
 			?>
         </main>
     </div>
