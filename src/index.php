@@ -62,11 +62,34 @@
                         href="https://github.com/name">@name</a>
                     E-mail: <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
                         href="mailto:charlie@anglo.is">charlie@anglo.is</a>
+                    PGP: <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://maddex.co/pgp">here</a>
+                </li>
+                <li>
+                    I'm a Senior Technical Analyst at an MSP, working on Cloud Infrastructure, DevOps, and
+                    Automation.<br>
+                    I'm also
+                    working on a personal project called Anglo, a low-latency storage and database platform as
+                    well<br> as various open-source projects on my Github.
+                </li>
+                <li>
+                    <br>
+                    Want to reach out? See my email or twitter above.
+                </li>
+                <li>
+                    <br>
+                    <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://maddex.co/images/incident.mp4">incident.mp4</a>
+                    <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://maddex.co/images/arnold.png">arnold.png</a>
+                    <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://maddex.co/images/mycalendar.jpg">mycalendar.jpg</a>
+                    <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
+                        href="https://maddex.co/images/whatsonyourmind.jpg">whatsonyourmind.jpg</a>
                 </li>
             </ul>
 
-
-
+            <br>
             <p style="margin-bottom:1em;font-weight:800">notes</p>
             <?php
 				// Get the contents of a website
