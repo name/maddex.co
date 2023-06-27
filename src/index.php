@@ -35,7 +35,6 @@
     html {
         max-width: 100vw;
         overflow-x: hidden;
-        font-antialiasing: antialiased;
         padding: .5rem;
     }
 
