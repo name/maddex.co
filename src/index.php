@@ -81,7 +81,7 @@
                     <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
                         href="https://maddex.co/images/incident.mp4">incident.mp4</a>
                     <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
-                        href="https://www.youtube.com/watch?v=S8s9uzPIqQ4">gentoo</a>
+                        href="https://www.youtube.com/watch?v=S8s9uzPIqQ4">gentoo.mp4</a>
                     <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
                         href="https://maddex.co/images/arnold.png">arnold.png</a>
                     <a rel="noopener noreferrer" target="_blank" style="margin-left:2px;color:blue"
